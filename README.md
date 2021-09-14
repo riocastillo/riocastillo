@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**riocastillo/riocastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  
+<img src="gitbanner.png" alt="banner image of centered text Rio Acuna Castillo, with a pink convertible and neon roses in the right corner">
+My name is Rio Acuna Castillo. I’m a software engineer with <a href="https://resilientcoders.org">Resilient Coders</a>. I'm a Peruvian non-binary person, raised in NYC, currently living in Pittsburgh, PA. I believe in the simplicity of radical truth-telling and believe that tech and art teach us about the vastness of creation. My intent as a software engineer is to deliver powerful, accessible products that can foster real connection. As someone who was raised in the country and outside of it, I saw the ways that the phone and internet could travel across time and lands. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As someone who has had parents incarcerated at a young age, I understood the power that technology could hold over keeping a family together. I want to dig my feet in to the infinite possibilites of what tech could do for people. Whether it's providing real human connection, or figuring out how users can best relate to a product, I am determined, detail-oriented, and an asset to any team I am apart of.
+  
+See more on [my portolio](https://riocastillo.netlify.app)!
+  
+  <p align="left">
+	<a target="_blank" href="https://riocastillo.netlify.app">
+	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
+	</a>
+	<a target="_blank" href="https://www.linkedin.com/rioacunacastillo">
+	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
+	</a>
+	<a target="_blank" href="https://twitter.com/rio_a_castillo">
+	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
+	</a>
+  </p>
+  
+## Relevant Skills 
+Coding: HTML & CSS | JavaScript 
+
+Art: Adobe Illustrator | Screenprinting | Graphic Design
+
+Languages: English, Spanish, Quechua
+
+ 
+
+
