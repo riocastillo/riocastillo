@@ -1,4 +1,4 @@
-## Hi, my name is Rio 👋
+### Hi, my name is Rio 👋
 
 <img src="gitbanner.png" alt="banner image of centered text Rio Acuna Castillo, with a pink convertible and neon roses in the right corner">
 I’m a software engineer with <a href="https://resilientcoders.org">Resilient Coders</a>. I'm a Peruvian non-binary person, raised in NYC, currently living in Pittsburgh, PA. I believe in the simplicity of radical truth-telling and believe that tech and art teach us about the vastness of creation. My intent as a software engineer is to deliver powerful, accessible products that can foster real connection. As someone who was raised in the country and outside of it, I saw the ways that the phone and internet could travel across time and lands. 
@@ -17,8 +17,7 @@ See more on <a href="https://riocastillo.netlify.app">my portolio</a>!
 	<a target="_blank" href="https://twitter.com/rio_a_castillo">
 	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-twitter.png" width="30px;" alt="Twitter" />
 	</a>
-  </p>
-  
+  </p>  
 
 ## Relevant Skills 
 Coding: HTML & CSS | JavaScript 
@@ -26,6 +25,7 @@ Coding: HTML & CSS | JavaScript
 Art: Adobe Illustrator | Screenprinting | Graphic Design
 
 Languages: English, Spanish, Quechua
+
 
  
 
