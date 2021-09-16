@@ -11,7 +11,7 @@ See more on <a href="https://riocastillo.netlify.app">my portolio</a>!
 	<a target="_blank" href="https://riocastillo.netlify.app">
 	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-link.png" width="30px;" alt="Portfolio Site" />
 	</a>
-	<a target="_blank" href="https://www.linkedin.com/rioacunacastillo">
+	<a target="_blank" href="https://www.linkedin.com/in/rioacunacastillo">
 	  <img src="https://raw.githubusercontent.com/cafloyd/cafloyd/master/images/branded-linkedin.png" width="30px;" alt="LinkedIn" />
 	</a>
 	<a target="_blank" href="https://twitter.com/rio_a_castillo">
