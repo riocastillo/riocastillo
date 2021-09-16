@@ -5,7 +5,7 @@ I’m a software engineer with <a href="https://resilientcoders.org">Resilient C
 <p></p>
 As someone who has had parents incarcerated at a young age, I understood the power that technology could hold over keeping a family together. I want to dig my feet in to the infinite possibilites of what tech could do for people. Whether it's providing real human connection, or figuring out how users can best relate to a product, I am determined, detail-oriented, and an asset to any team I am apart of.
 <p></p>
-See more on <a href="https://riocastillo.netlify.app">my portolio</a>!
+See more on <a href="https://riocastillo.netlify.app">my portfolio</a>!
   <p></p>
   <p align="left">
 	<a target="_blank" href="https://riocastillo.netlify.app">
