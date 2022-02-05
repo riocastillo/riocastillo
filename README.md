@@ -1,6 +1,6 @@
 ## Hi, my name is Rio 👋
 
-<img src="banner.png">
+<img src="newbanner.png">
 I was raised in Peru and NYC, and I'm currently living in Pittsburgh, PA. I believe that tech and art teach us about the vastness of creation and my intent as a software engineer is to deliver powerful, creative products that can shift narratives and foster real connection. 
 <p></p>
 As someone who was raised in the country and outside of it, I saw the ways that the phone and internet could travel across time and lands. As someone who has had parents incarcerated at a young age, I understood the power that technology could hold over keeping a family together. I want to dig my feet into the infinite possibilities of what tech could do for people, because it's done so much for me. Even when I didn't know it. 
